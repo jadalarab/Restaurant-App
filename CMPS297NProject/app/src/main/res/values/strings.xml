@@ -1,0 +1,122 @@
+<resources>
+    <string name="pizza">\n\t\t\t\t\t\t\tPizza\t\t\t\t\t\t\t\t\t\t\t\t 9$ \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 2 ordered</string>
+    <string name="chicken_burger">\n\t\t\t\t\t\t Chicken Burger\t\t\t\t10$ \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 ordered</string>
+    <string name="cheese_burger">\n\t\t\t\t\t\t\tCheeseburger\t\t\t\t12$ \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3 ordered</string>
+    <string name="pasta">\n\t\t\t\t\t\t\tPasta\t\t\t\t\t\t\t\t\t\t\t13$\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 ordered</string>
+    <string name="food">\n\t\t\t\t\t\t\t Food Item\t\t\t\t\t\t ...$\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t ... ordered</string>
+    <string name="pizza1">\n\t\t\t\t\t\t\t2 x Pizza @ $18 \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2 ordered</string>
+    <string name="chicken_burger1">\n\t\t\t\t\t\t\t1 x Chicken Burger @ $10\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 1 ordered</string>
+    <string name="cheese_burger1">\n\t\t\t\t\t\t\t 3 x Cheeseburger @ $36\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 3 ordered</string>
+    <string name="pasta1">\n\t\t\t\t\t\t\t1 x Pasta @ $13\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t1 ordered</string>
+    <string name="food1">\n\t\t\t\t\t\t\t 1x Food Item @ $...\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t... ordered</string>
+    <string name="app_name">staff_side</string>
+    <string name="tab_text_1">Edit Menu</string>
+    <string name="tab_text_2">Inventory</string>
+    <string name="tab_text_3">Order Control</string>
+    <string name="menu">Menu</string>
+    <string name="inventory">Inventory</string>
+    <string name="order_control">Order Control</string>
+
+    <string-array name="food_items">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Fish</item>
+        <item>Unhealthy item</item>
+        <item>Ice Cream</item>
+        <item>Chocolate</item>
+        <item>Lettuce</item>
+        <item>Something else</item>
+        <item>Another thing</item>
+        <item>Last item</item>
+    </string-array>
+
+    <string-array name="food_descriptions">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Fish</item>
+        <item>Unhealthy item</item>
+        <item>Ice Cream</item>
+        <item>Chocolate</item>
+        <item>Lettuce</item>
+        <item>Something else</item>
+        <item>Another thing</item>
+        <item>Last item</item>
+    </string-array>
+
+    <string-array name="food_prices">
+        <item>20$</item>
+        <item>10$</item>
+        <item>5$</item>
+        <item>0.5$</item>
+        <item>15$</item>
+        <item>20$</item>
+        <item>10$</item>
+        <item>5$</item>
+        <item>15$</item>
+        <item>15$</item>
+    </string-array>
+
+    <string-array name="food_remaining">
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
+        <item>35</item>
+        <item>15</item>
+        <item>20</item>
+        <item>10</item>
+        <item>5</item>
+        <item>15</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="customer_orders">
+        <item>Order1</item>
+        <item>Order2</item>
+        <item>Order3</item>
+        <item>Order4</item>
+        <item>Order5</item>
+        <item>Order6</item>
+        <item>Order7</item>
+        <item>Order8</item>
+        <item>Order9</item>
+        <item>Order10</item>
+    </string-array>
+
+    <string-array name="order_descriptions">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Fish</item>
+        <item>Unhealthy item</item>
+        <item>Ice Cream</item>
+        <item>Chocolate</item>
+        <item>Lettuce</item>
+        <item>Something else</item>
+        <item>Another thing</item>
+        <item>Last item</item>
+    </string-array>
+
+    <string-array name="order_prices">
+        <item>20$</item>
+        <item>10$</item>
+        <item>5$</item>
+        <item>0.5$</item>
+        <item>15$</item>
+        <item>20$</item>
+        <item>10$</item>
+        <item>5$</item>
+        <item>15$</item>
+        <item>15$</item>
+    </string-array>
+    <string name="title_activity_login_page">LoginPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_sign_up">SignUp</string>
+
+</resources>
